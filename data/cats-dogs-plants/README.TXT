@@ -28,6 +28,6 @@ done
 
 # obtain a tab separated file with all image paths and classes in a specific order (animals first)
 for s in  cat shepherd wolf CommonWheat Maize Small-floweredCranesbill Charlock FatHen ScentlessMayweed SugarBeet CommonChickweed LooseSilky-bent; do
-    ls $s/*
+    ls $s/*.png
 done | perl -pe 's/\//\t/' > classes-and-fnames.txt
 
