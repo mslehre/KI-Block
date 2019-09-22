@@ -8,7 +8,7 @@ Go to [Moodle](https://moodle-web.uni-greifswald.de/moodle/course/view.php?id=54
 
 ## Get Started
  1. Login to [Moodle](https://moodle-web.uni-greifswald.de/moodle/course/view.php?id=5405) and self-subscribe, if not already done. Leave the Q & A tab open in your browser.
- 2. Login at https://jupyterhub.brain.rz.uni-greifswald.de  and spawn Tensorflow 2.0.0-rc1.
+ 2. Login at https://jupyterhub.brain.rz.uni-greifswald.de  and spawn Tensorflow 2.0.0-rc0.
  3. Open a terminal (click ```+``` below ```File```, then ```Terminal```)
  4. Download the class material: Copy and paste this command into a terminal
 ```
