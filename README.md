@@ -6,6 +6,16 @@ Go to [Moodle](https://moodle-web.uni-greifswald.de/moodle/course/view.php?id=54
  - announcements
  - quiz
 
+## Get Started
+ 1. Login to [Moodle](https://moodle-web.uni-greifswald.de/moodle/course/view.php?id=5405) and self-subscribe, if not already done. Leave the Q & A tab open in your browser.
+ 2. Login at https://jupyterhub.brain.rz.uni-greifswald.de  and spawn Tensorflow 2.0.0rc1.
+ 3. Open a terminal (click ```+``` below ```File```, then ```Terminal```)
+ 4. Download the class material: Copy and paste this command into a terminal
+```
+git clone https://github.com/mslehre/KI-Block.git
+```
+ 5. Open ```KI-Block/gd/lr.ipynb```
+ 
 ## Course Overview
 You will get practical knowledge to perform general machine learning and, in particular, computer vision tasks with TensorFlow 2 and the neccessary theoretical background to troubleshoot when transferring the knowledge to solve own problems.
 
