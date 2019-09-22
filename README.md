@@ -11,28 +11,30 @@ You will get practical knowledge to perform general machine learning and, in par
 
 ### (Stochastic) Gradient Descent
 
-<img src="figs/intro-sgd.png" style="width=800px"/>
+<img src="figs/intro-sgd.png" width="800"/>
 
 ### Linear Regression with TensorFlow 2
 
-<p float="left">
-  <img src="figs/intro-lr.png" style="width=300px"/>
-  <img src="figs/intro-qr.png" style="width=300px"/>
+<p>
+  <img src="figs/intro-lr.png" width="400"/>
+  <img src="figs/intro-qr.png" width="400"/>
 </p>
 
 
 ### Expore the Effect of Critical Parameters
 
-<img src="figs/intro-sliders.png" style="width=300px"/>
+<img src="figs/intro-sliders.png" width="700"/>
 
 
 ### Derive and Optimize
 
-<img src="exercises/dy_dx.png" width="200px"/>
+<p align="center">
+ <img src="exercises/dy_dx.png" width="200"/>
+</p>
 
 ### Fully-Connected Neural Network for Regression
 
-<p float="left">
+<p align="center">
 <img src="exercises/nn8-8.png" width="600"/>
 <img src="figs/intro-nn-reg.png" width="800"/>
 </p>
@@ -42,7 +44,7 @@ You will get practical knowledge to perform general machine learning and, in par
 
 <img src="exercises/cnn-ngon.png" alt="cnn architecture" width="800"/>
 <img src="figs/intro-filters.png" width="600"/>
-<img src="exercises/exciting-patches.png" style="width:500px"/>
+<img src="exercises/exciting-patches.png" width="500"/>
 <img src="figs/intro-fool-ex.png" width="600"/>
 
 
