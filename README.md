@@ -33,7 +33,7 @@ You will get practical knowledge to perform general machine learning and, in par
 ### Fully-Connected Neural Network for Regression
 
 <p float="left">
-<img src="exercises/nn8-8.png" width="400"/>
+<img src="exercises/nn8-8.png" width="600"/>
 <img src="figs/intro-nn-reg.png" width="800"/>
 </p>
 
