@@ -1,5 +1,5 @@
 # Neural Networks and Deep Learning
-## Greifswald, September 23-25, 2019
+## Greifswald, March 22-24, 2021
 Go to [Moodle](https://moodle-web.uni-greifswald.de/moodle/course/view.php?id=5405) for
  - Q & A forum
  - feedback
