@@ -1,0 +1,1506 @@
+>Cluster 0
+0	421nt, >Homo_sapiens300783_SCARNA17... *
+>Cluster 1
+0	420nt, >Homo_sapiens300776_SCARNA2... *
+>Cluster 2
+0	70nt, >Homo_sapiens300631_SCARNA9L1... at +/92.86%
+1	352nt, >Homo_sapiens300777_SCARNA9... *
+>Cluster 3
+0	332nt, >Saccharomyces_cerevisiae300049_U3b... at +/91.87%
+1	333nt, >Saccharomyces_cerevisiae300074_U3a... *
+>Cluster 4
+0	330nt, >Homo_sapiens300774_SCARNA7... *
+>Cluster 5
+0	330nt, >Homo_sapiens300786_SCARNA10... *
+>Cluster 6
+0	316nt, >Drosophila_melanogaster300215_snoRNA:MeU5-C46... *
+>Cluster 7
+0	297nt, >Mus_musculus300884_snoU2-30... *
+>Cluster 8
+0	278nt, >Homo_sapiens300784_SCARNA5... *
+>Cluster 9
+0	266nt, >Homo_sapiens300785_SCARNA6... *
+>Cluster 10
+0	255nt, >Saccharomyces_cerevisiae300052_snR63... *
+>Cluster 11
+0	254nt, >Arabidopsis_thaliana300011_SnoR106... *
+>Cluster 12
+0	243nt, >Arabidopsis_thaliana300175_U49-2... *
+>Cluster 13
+0	237nt, >Homo_sapiens300482_SNORD17... *
+>Cluster 14
+0	227nt, >Homo_sapiens300176_SNORD3@L32... *
+>Cluster 15
+0	226nt, >Homo_sapiens300131_SNORD3L4... *
+>Cluster 16
+0	219nt, >Homo_sapiens300221_SNORD3@L16... *
+>Cluster 17
+0	218nt, >Homo_sapiens300544_SNORD3@L3... *
+>Cluster 18
+0	217nt, >Homo_sapiens300112_SNORD3@... *
+1	216nt, >Homo_sapiens300182_SNORD3@... at +/99.54%
+2	216nt, >Homo_sapiens300243_SNORD3@... at +/98.61%
+3	216nt, >Homo_sapiens300250_SNORD3@... at +/99.54%
+4	216nt, >Homo_sapiens300448_SNORD3@... at +/99.54%
+>Cluster 19
+0	216nt, >Arabidopsis_thaliana300176_U49-1... *
+>Cluster 20
+0	216nt, >Homo_sapiens300139_SNORD3@L34... *
+>Cluster 21
+0	215nt, >Homo_sapiens300053_SNORD3L7... *
+>Cluster 22
+0	215nt, >Homo_sapiens300140_SNORD3@L14... *
+>Cluster 23
+0	215nt, >Homo_sapiens300160_SNORD3@L18... *
+>Cluster 24
+0	215nt, >Homo_sapiens300224_SNORD3@L33... *
+>Cluster 25
+0	215nt, >Homo_sapiens300248_SNORD3@L26... *
+>Cluster 26
+0	215nt, >Homo_sapiens300285_SNORD3@L31... *
+>Cluster 27
+0	215nt, >Homo_sapiens300368_SNORD3@L8... *
+>Cluster 28
+0	215nt, >Homo_sapiens300424_SNORD3@L23... *
+>Cluster 29
+0	215nt, >Homo_sapiens300466_SNORD3@L43... *
+>Cluster 30
+0	215nt, >Homo_sapiens300640_SNORD3@L45... *
+>Cluster 31
+0	215nt, >Homo_sapiens300711_SNORD3@L44... *
+>Cluster 32
+0	215nt, >Homo_sapiens300723_SNORD3@... *
+>Cluster 33
+0	214nt, >Homo_sapiens300070_SNORD3L3... *
+>Cluster 34
+0	214nt, >Homo_sapiens300097_SNORD3@L17... *
+>Cluster 35
+0	214nt, >Homo_sapiens300246_SNORD3@L27... *
+>Cluster 36
+0	213nt, >Homo_sapiens300092_SNORD3@L6... *
+>Cluster 37
+0	213nt, >Homo_sapiens300109_SNORD3@L40... *
+>Cluster 38
+0	213nt, >Homo_sapiens300191_SNORD3L5... *
+>Cluster 39
+0	213nt, >Homo_sapiens300212_SNORD3@L29... *
+>Cluster 40
+0	213nt, >Homo_sapiens300370_SNORD3@L20... *
+>Cluster 41
+0	213nt, >Homo_sapiens300433_U3.41-201... *
+>Cluster 42
+0	213nt, >Homo_sapiens300451_SNORD3@L25... *
+>Cluster 43
+0	213nt, >Homo_sapiens300534_SNORD3@L5... *
+>Cluster 44
+0	212nt, >Homo_sapiens300011_SNORD3@L39... *
+>Cluster 45
+0	212nt, >Homo_sapiens300187_SNORD3@L10... *
+>Cluster 46
+0	212nt, >Homo_sapiens300387_SNORD3@L24... *
+>Cluster 47
+0	212nt, >Homo_sapiens300443_SNORD3@L30... *
+>Cluster 48
+0	211nt, >Homo_sapiens300137_SNORD3@L12... *
+>Cluster 49
+0	211nt, >Homo_sapiens300293_SNORD3@L9... *
+>Cluster 50
+0	211nt, >Homo_sapiens300375_SNORD3@L13... *
+>Cluster 51
+0	211nt, >Homo_sapiens300417_SNORD3@L7... *
+>Cluster 52
+0	209nt, >Homo_sapiens300153_SNORD3@L28... *
+>Cluster 53
+0	208nt, >Homo_sapiens300089_SNORD3@L37... *
+>Cluster 54
+0	208nt, >Homo_sapiens300103_SNORD3@L35... *
+>Cluster 55
+0	207nt, >Homo_sapiens300465_SNORD3L6... *
+>Cluster 56
+0	207nt, >Homo_sapiens300531_SNORD3@L4... *
+>Cluster 57
+0	207nt, >Homo_sapiens300611_SNORD3@L42... *
+>Cluster 58
+0	203nt, >Homo_sapiens300049_SNORD3@L19... *
+>Cluster 59
+0	203nt, >Homo_sapiens300219_SNORD3@L21... *
+>Cluster 60
+0	203nt, >Homo_sapiens300225_SNORD3@L22... *
+>Cluster 61
+0	202nt, >Homo_sapiens300453_SNORD3@L15... *
+>Cluster 62
+0	199nt, >Homo_sapiens300471_SNORD3@L48... *
+>Cluster 63
+0	199nt, >Homo_sapiens300639_SNORD3L1... *
+>Cluster 64
+0	197nt, >Homo_sapiens300530_SNORD3@L47... *
+>Cluster 65
+0	195nt, >Homo_sapiens300712_SNORD3@L46... *
+>Cluster 66
+0	191nt, >Homo_sapiens300630_SNORD3L2... *
+>Cluster 67
+0	190nt, >Saccharomyces_cerevisiae300054_snR190... *
+>Cluster 68
+0	188nt, >Arabidopsis_thaliana300012_SnoR107... *
+>Cluster 69
+0	188nt, >Homo_sapiens300361_SNORD3@L38... *
+>Cluster 70
+0	187nt, >Homo_sapiens300287_SNORD3@L41... *
+>Cluster 71
+0	186nt, >Saccharomyces_cerevisiae300008_snR4... *
+>Cluster 72
+0	181nt, >Homo_sapiens300054_SNORD3@L11... *
+>Cluster 73
+0	173nt, >Drosophila_melanogaster300016_snoRNA:U3:54Ab... *
+1	173nt, >Drosophila_melanogaster300017_snoRNA:U3:54Aa... at +/100.00%
+>Cluster 74
+0	172nt, >Saccharomyces_cerevisiae300076_snR45... *
+>Cluster 75
+0	168nt, >Drosophila_melanogaster300037_snoRNA:U3:9B... *
+>Cluster 76
+0	164nt, >Saccharomyces_cerevisiae300058_snR70... *
+>Cluster 77
+0	163nt, >Caenorhabditis_elegans300020_Y74C9A.6... *
+>Cluster 78
+0	159nt, >Homo_sapiens300400_SNORD3@L36... *
+>Cluster 79
+0	158nt, >Arabidopsis_thaliana300196_SnoR102-2... *
+>Cluster 80
+0	155nt, >Arabidopsis_thaliana300154_U27-1... *
+>Cluster 81
+0	148nt, >Homo_sapiens300741_SNORD15A... *
+>Cluster 82
+0	146nt, >Caenorhabditis_elegans300072_Y62F5A.11... *
+>Cluster 83
+0	146nt, >Homo_sapiens300742_SNORD15B... *
+>Cluster 84
+0	140nt, >Caenorhabditis_elegans300049_Y37E3.22... *
+>Cluster 85
+0	140nt, >Drosophila_melanogaster300199_snoRNA:Psi18S-1820... *
+>Cluster 86
+0	137nt, >Homo_sapiens300500_SNORD94... *
+>Cluster 87
+0	136nt, >Homo_sapiens300158_SNORD118L7... *
+>Cluster 88
+0	136nt, >Homo_sapiens300211_SNORD118L6... *
+>Cluster 89
+0	136nt, >Homo_sapiens300702_SNORD118... *
+>Cluster 90
+0	136nt, >Saccharomyces_cerevisiae300032_snR68... *
+>Cluster 91
+0	135nt, >Drosophila_melanogaster300052_snoRNA:Me28S-A2958... *
+>Cluster 92
+0	135nt, >Homo_sapiens300227_SNORD118L3... *
+>Cluster 93
+0	135nt, >Homo_sapiens300380_SNORD118L8... *
+>Cluster 94
+0	134nt, >Homo_sapiens300087_SNORD118L9... *
+>Cluster 95
+0	134nt, >Homo_sapiens300291_SNORD118L5... *
+>Cluster 96
+0	134nt, >Homo_sapiens300298_SNORD118L10... *
+>Cluster 97
+0	133nt, >Arabidopsis_thaliana300007_SnoR102... *
+>Cluster 98
+0	133nt, >Homo_sapiens300069_SNORD118L14... *
+1	133nt, >Homo_sapiens300129_SNORD118L12... at +/96.99%
+2	133nt, >Homo_sapiens300154_SNORD118L13... at +/97.74%
+3	133nt, >Homo_sapiens300518_SNORD118... at +/97.74%
+>Cluster 99
+0	133nt, >Homo_sapiens300084_SNORD118L11... *
+>Cluster 100
+0	132nt, >Drosophila_melanogaster300092_snoRNA:Me18S-A1494... *
+>Cluster 101
+0	132nt, >Homo_sapiens300693_SNORD118... *
+>Cluster 102
+0	131nt, >Homo_sapiens300044_SNORD118L4... *
+>Cluster 103
+0	128nt, >Arabidopsis_thaliana300068_SnoR37-2... *
+>Cluster 104
+0	128nt, >Drosophila_melanogaster300038_snoRNA:Me28S-U1230... *
+>Cluster 105
+0	127nt, >Arabidopsis_thaliana300177_U49-3... *
+>Cluster 106
+0	126nt, >Homo_sapiens300162_SNORD22... *
+>Cluster 107
+0	126nt, >Saccharomyces_cerevisiae300053_U14... *
+>Cluster 108
+0	124nt, >Homo_sapiens300382_SNORA25L14... *
+>Cluster 109
+0	124nt, >Saccharomyces_cerevisiae300051_snR13... *
+>Cluster 110
+0	122nt, >Arabidopsis_thaliana300142_U14c... *
+1	120nt, >Arabidopsis_thaliana300144_U14d... at +/90.83%
+>Cluster 111
+0	121nt, >Arabidopsis_thaliana300180_U53... *
+>Cluster 112
+0	121nt, >Drosophila_melanogaster300111_snoRNA:Me28S-A576... *
+>Cluster 113
+0	120nt, >Arabidopsis_thaliana300141_U14a... *
+>Cluster 114
+0	120nt, >Arabidopsis_thaliana300143_U14b... *
+>Cluster 115
+0	119nt, >Caenorhabditis_elegans300051_Y37E3.20... *
+>Cluster 116
+0	118nt, >Arabidopsis_thaliana300089_SnoR6-3... *
+>Cluster 117
+0	118nt, >Drosophila_melanogaster300126_snoRNA:Me28S-U1688... *
+>Cluster 118
+0	118nt, >Drosophila_melanogaster300204_snoRNA:Me18S-G393... *
+>Cluster 119
+0	117nt, >Arabidopsis_thaliana300087_SnoR6-1... *
+1	117nt, >Arabidopsis_thaliana300088_SnoR6-2... at +/98.29%
+>Cluster 120
+0	117nt, >Drosophila_melanogaster300240_snoRNA:Me28S-A2564... *
+>Cluster 121
+0	88nt, >Arabidopsis_thaliana300059_SnoR30... at +/100.00%
+1	116nt, >Arabidopsis_thaliana300215_SNOR30... *
+>Cluster 122
+0	116nt, >Drosophila_melanogaster300039_snoRNA:Me28S-C437... *
+>Cluster 123
+0	116nt, >Drosophila_melanogaster300043_snoRNA:Me28S-A2486... *
+>Cluster 124
+0	116nt, >Drosophila_melanogaster300203_snoRNA:Me18S-A1597... *
+>Cluster 125
+0	115nt, >Arabidopsis_thaliana300057_SnoR29-2... *
+>Cluster 126
+0	115nt, >Drosophila_melanogaster300102_snoRNA:MeU2-A31... *
+>Cluster 127
+0	115nt, >Drosophila_melanogaster300229_snoRNA:Me28S-U1554... *
+>Cluster 128
+0	83nt, >Arabidopsis_thaliana300171_U38-1... at +/100.00%
+1	114nt, >Arabidopsis_thaliana300172_U38-2... *
+>Cluster 129
+0	114nt, >Homo_sapiens300430_SNORD89... *
+>Cluster 130
+0	113nt, >Drosophila_melanogaster300049_snoRNA:Me18S-A1576... *
+>Cluster 131
+0	113nt, >Saccharomyces_cerevisiae300018_snR48... *
+>Cluster 132
+0	111nt, >Arabidopsis_thaliana300044_SnoR23-1... *
+>Cluster 133
+0	111nt, >Caenorhabditis_elegans300046_F56C9.12... *
+>Cluster 134
+0	111nt, >Drosophila_melanogaster300110_snoRNA:MeU5-U42... *
+>Cluster 135
+0	111nt, >Homo_sapiens300738_SNORD67... *
+>Cluster 136
+0	110nt, >Arabidopsis_thaliana300013_SnoR108... *
+>Cluster 137
+0	110nt, >Arabidopsis_thaliana300015_SnoR11... *
+>Cluster 138
+0	110nt, >Arabidopsis_thaliana300029_SnoR17... *
+>Cluster 139
+0	110nt, >Homo_sapiens300562_SNORD23... *
+>Cluster 140
+0	110nt, >Saccharomyces_cerevisiae300059_snR41... *
+>Cluster 141
+0	109nt, >Drosophila_melanogaster300173_snoRNA:Me28S-U1130... *
+>Cluster 142
+0	109nt, >Drosophila_melanogaster300180_snoRNA:Me28S-A2589b... *
+>Cluster 143
+0	109nt, >Homo_sapiens300717_SNORD8... *
+>Cluster 144
+0	109nt, >Saccharomyces_cerevisiae300013_snR76... *
+>Cluster 145
+0	109nt, >Saccharomyces_cerevisiae300056_snR87... *
+>Cluster 146
+0	108nt, >Arabidopsis_thaliana300066_SnoR36... *
+>Cluster 147
+0	108nt, >Drosophila_melanogaster300129_snoRNA:Me18S-G894... *
+>Cluster 148
+0	107nt, >Arabidopsis_thaliana300010_SnoR105... *
+>Cluster 149
+0	107nt, >Arabidopsis_thaliana300244_R71.69... *
+1	107nt, >Arabidopsis_thaliana300245_R71.67... at +/92.52%
+>Cluster 150
+0	107nt, >Drosophila_melanogaster300188_snoRNA:Me28S-A2589c... *
+>Cluster 151
+0	107nt, >Homo_sapiens300575_SNORD90... *
+>Cluster 152
+0	107nt, >Saccharomyces_cerevisiae300057_snR51... *
+>Cluster 153
+0	106nt, >Arabidopsis_thaliana300058_SnoR29-1... *
+>Cluster 154
+0	106nt, >Caenorhabditis_elegans300124_D1054.17... *
+>Cluster 155
+0	106nt, >Drosophila_melanogaster300176_snoRNA:Me28S-A2589a... *
+>Cluster 156
+0	106nt, >Saccharomyces_cerevisiae300016_snR73... *
+>Cluster 157
+0	104nt, >Arabidopsis_thaliana300193_SnoR24-pseud... *
+>Cluster 158
+0	104nt, >Homo_sapiens300142_SNORD23... *
+>Cluster 159
+0	104nt, >Homo_sapiens300627_SNORD46.1-201... *
+>Cluster 160
+0	98nt, >Homo_sapiens300662_SNORD46... at +/91.84%
+1	104nt, >Mus_musculus300956_SNORD46... *
+>Cluster 161
+0	104nt, >Saccharomyces_cerevisiae300004_snR60... *
+>Cluster 162
+0	103nt, >Arabidopsis_thaliana300056_SnoR28-2b... *
+>Cluster 163
+0	102nt, >Arabidopsis_thaliana300061_SnoR32-1... at +/100.00%
+1	103nt, >Arabidopsis_thaliana300062_SnoR32-2... *
+>Cluster 164
+0	90nt, >Arabidopsis_thaliana300157_U31b... at +/95.56%
+1	103nt, >Arabidopsis_thaliana300158_U31a... *
+>Cluster 165
+0	103nt, >Homo_sapiens300716_SNORD9... *
+>Cluster 166
+0	102nt, >Homo_sapiens300125_SNORD116-10... *
+>Cluster 167
+0	102nt, >Saccharomyces_cerevisiae300067_U18... *
+>Cluster 168
+0	101nt, >Drosophila_melanogaster300055_snoRNA:Me28S-A3365... *
+>Cluster 169
+0	101nt, >Drosophila_melanogaster300112_snoRNA:Me28S-A30... *
+>Cluster 170
+0	101nt, >Homo_sapiens300523_SNORD16... *
+>Cluster 171
+0	101nt, >Saccharomyces_cerevisiae300000_snR64... *
+>Cluster 172
+0	101nt, >Saccharomyces_cerevisiae300036_snR69... *
+>Cluster 173
+0	100nt, >Arabidopsis_thaliana300055_SnoR28-2a... *
+>Cluster 174
+0	100nt, >Arabidopsis_thaliana300060_SnoR31... *
+>Cluster 175
+0	100nt, >Drosophila_melanogaster300000_snoRNA:Me18S-C1366... *
+>Cluster 176
+0	100nt, >Drosophila_melanogaster300053_snoRNA:Me28S-C1237... *
+>Cluster 177
+0	100nt, >Saccharomyces_cerevisiae300019_snR65... *
+>Cluster 178
+0	100nt, >Saccharomyces_cerevisiae300066_snR62... *
+>Cluster 179
+0	99nt, >Drosophila_melanogaster300119_snoRNA:Me18S-C1024... *
+>Cluster 180
+0	99nt, >Drosophila_melanogaster300127_snoRNA:Me18S-A627... *
+>Cluster 181
+0	99nt, >Drosophila_melanogaster300148_snoRNA:MeU6-C68... *
+>Cluster 182
+0	99nt, >Homo_sapiens300104_snosnR66... *
+>Cluster 183
+0	99nt, >Saccharomyces_cerevisiae300039_snR47... *
+>Cluster 184
+0	98nt, >Arabidopsis_thaliana300130_SnoR9-2... *
+>Cluster 185
+0	98nt, >Arabidopsis_thaliana300182_U55... *
+>Cluster 186
+0	98nt, >Saccharomyces_cerevisiae300017_snR72... *
+>Cluster 187
+0	98nt, >Saccharomyces_cerevisiae300026_snR55... *
+>Cluster 188
+0	97nt, >Arabidopsis_thaliana300021_SnoR12-1b... *
+>Cluster 189
+0	97nt, >Arabidopsis_thaliana300045_SnoR24c... *
+1	93nt, >Arabidopsis_thaliana300046_SnoR24a... at +/95.70%
+2	93nt, >Arabidopsis_thaliana300047_SnoR24b... at +/94.62%
+3	95nt, >Arabidopsis_thaliana300048_SnoR24d... at +/93.68%
+>Cluster 190
+0	97nt, >Arabidopsis_thaliana300051_SnoR27... *
+>Cluster 191
+0	96nt, >Arabidopsis_thaliana300053_SnoR28-1b... at +/96.88%
+1	97nt, >Arabidopsis_thaliana300054_SnoR28-1c... *
+>Cluster 192
+0	97nt, >Arabidopsis_thaliana300077_SnoR44-1a... *
+1	93nt, >Arabidopsis_thaliana300079_SnoR44-2... at +/90.32%
+>Cluster 193
+0	97nt, >Arabidopsis_thaliana300084_SnoR58Y-1... *
+>Cluster 194
+0	97nt, >Homo_sapiens300116_SNORD116-1... *
+1	95nt, >Homo_sapiens300117_SNORD116-2... at +/95.79%
+2	95nt, >Homo_sapiens300118_SNORD116-3... at +/96.84%
+3	96nt, >Homo_sapiens300119_SNORD116-4... at +/92.71%
+4	97nt, >Homo_sapiens300120_SNORD116-5... at +/95.88%
+5	96nt, >Homo_sapiens300121_SNORD116-6... at +/94.79%
+6	95nt, >Homo_sapiens300122_SNORD116-7... at +/95.79%
+7	95nt, >Homo_sapiens300123_SNORD116-8... at +/94.74%
+8	95nt, >Homo_sapiens300124_SNORD116-9... at +/96.84%
+9	92nt, >Homo_sapiens300271_SNORD116-18... at +/90.22%
+10	94nt, >Homo_sapiens300272_SNORD116-19... at +/90.43%
+>Cluster 195
+0	97nt, >Homo_sapiens300437_SNORD7... *
+>Cluster 196
+0	91nt, >Homo_sapiens300569_SNORD88B... at +/91.21%
+1	97nt, >Homo_sapiens300570_SNORD88A... *
+>Cluster 197
+0	97nt, >Saccharomyces_cerevisiae300055_snR40... *
+>Cluster 198
+0	96nt, >Arabidopsis_thaliana300042_SnoR23-2... *
+1	96nt, >Arabidopsis_thaliana300043_SnoR23-3... at +/98.96%
+>Cluster 199
+0	96nt, >Drosophila_melanogaster300216_snoRNA:Me18S-G423... *
+>Cluster 200
+0	92nt, >Homo_sapiens300278_SNORD116-25... at +/97.83%
+1	96nt, >Homo_sapiens300279_SNORD116-26... *
+>Cluster 201
+0	96nt, >Saccharomyces_cerevisiae300024_snR58... *
+>Cluster 202
+0	96nt, >Saccharomyces_cerevisiae300029_snR39b... *
+>Cluster 203
+0	95nt, >Arabidopsis_thaliana300073_39BYb... *
+>Cluster 204
+0	95nt, >Drosophila_melanogaster300228_snoRNA:Me18S-C1280... *
+>Cluster 205
+0	95nt, >Homo_sapiens300669_SNORD21... *
+>Cluster 206
+0	95nt, >Homo_sapiens300685_SNORD83A... *
+>Cluster 207
+0	95nt, >Homo_sapiens300698_SNORD91B... *
+>Cluster 208
+0	95nt, >Saccharomyces_cerevisiae300069_snR38... *
+>Cluster 209
+0	89nt, >Arabidopsis_thaliana300039_SnoR22-3b... at +/97.75%
+1	90nt, >Arabidopsis_thaliana300040_SnoR22-3a... at +/92.22%
+2	94nt, >Arabidopsis_thaliana300041_SnoR22-2... *
+>Cluster 210
+0	94nt, >Arabidopsis_thaliana300050_SnoR26... *
+>Cluster 211
+0	94nt, >Arabidopsis_thaliana300052_SnoR28-1a... *
+>Cluster 212
+0	83nt, >Arabidopsis_thaliana300152_U24-2... at +/93.98%
+1	94nt, >Arabidopsis_thaliana300153_U24-1... *
+>Cluster 213
+0	94nt, >Caenorhabditis_elegans300113_Y116A8C.50... *
+>Cluster 214
+0	94nt, >Homo_sapiens300593_SNORD111... *
+>Cluster 215
+0	94nt, >Mus_musculus300771_SNORD21... *
+>Cluster 216
+0	93nt, >Homo_sapiens300684_SNORD83B... at +/92.47%
+1	94nt, >Mus_musculus300857_snoU83B... *
+>Cluster 217
+0	93nt, >Arabidopsis_thaliana300001_SnoR1b... *
+1	92nt, >Arabidopsis_thaliana300002_SnoR1a... at +/92.39%
+>Cluster 218
+0	93nt, >Arabidopsis_thaliana300095_SnoR68Y... *
+>Cluster 219
+0	93nt, >Drosophila_melanogaster300223_snoRNA:Me28S-G2017... *
+>Cluster 220
+0	92nt, >Homo_sapiens300126_SNORD116-11... *
+>Cluster 221
+0	92nt, >Homo_sapiens300273_SNORD116-20... *
+1	92nt, >Homo_sapiens300274_SNORD116-21... at +/97.83%
+2	92nt, >Homo_sapiens300276_SNORD116-23... at +/92.39%
+3	92nt, >Homo_sapiens300277_SNORD116-24... at +/92.39%
+4	92nt, >Homo_sapiens300512_SNORD116-12... at +/92.39%
+5	92nt, >Homo_sapiens300514_SNORD116-14... at +/97.83%
+6	92nt, >Homo_sapiens300515_SNORD116-15... at +/97.83%
+7	92nt, >Homo_sapiens300516_SNORD116-16... at +/95.65%
+8	92nt, >Homo_sapiens300517_SNORD116-17... at +/98.91%
+>Cluster 222
+0	92nt, >Homo_sapiens300280_SNORD116-27... *
+>Cluster 223
+0	92nt, >Homo_sapiens300513_SNORD116-13... *
+>Cluster 224
+0	92nt, >Homo_sapiens300678_SNORD116-20... *
+>Cluster 225
+0	92nt, >Homo_sapiens300699_SNORD91A... *
+>Cluster 226
+0	92nt, >Saccharomyces_cerevisiae300050_snR52... *
+>Cluster 227
+0	91nt, >Arabidopsis_thaliana300067_SnoR37-1... *
+>Cluster 228
+0	91nt, >Arabidopsis_thaliana300163_U34c... *
+>Cluster 229
+0	91nt, >Caenorhabditis_elegans300127_F55A11.10... *
+>Cluster 230
+0	91nt, >Drosophila_melanogaster300007_snoRNA:Me28S-G2703a... *
+>Cluster 231
+0	91nt, >Drosophila_melanogaster300051_snoRNA:Me18S-A934... *
+>Cluster 232
+0	91nt, >Drosophila_melanogaster300147_snoRNA:MeU6-A47... *
+>Cluster 233
+0	91nt, >Drosophila_melanogaster300152_snoRNA:Me28S-C3420b... *
+>Cluster 234
+0	91nt, >Drosophila_melanogaster300153_snoRNA:Me28S-C3420a... *
+>Cluster 235
+0	91nt, >Homo_sapiens300281_SNORD116-28... *
+>Cluster 236
+0	91nt, >Homo_sapiens300571_SNORD88C... *
+>Cluster 237
+0	91nt, >Homo_sapiens300655_SNORD103A... *
+1	91nt, >Homo_sapiens300656_SNORD103B... at +/100.00%
+>Cluster 238
+0	91nt, >Homo_sapiens300736_SNORD14B... *
+>Cluster 239
+0	90nt, >Homo_sapiens300494_SNORD14A... at +/91.11%
+1	91nt, >Homo_sapiens300737_SNORD14A... *
+>Cluster 240
+0	91nt, >Homo_sapiens300763_SNORD12B... *
+>Cluster 241
+0	91nt, >Saccharomyces_cerevisiae300034_snR53... *
+>Cluster 242
+0	90nt, >Arabidopsis_thaliana300169_U37... *
+>Cluster 243
+0	86nt, >Arabidopsis_thaliana300178_U51a... at +/100.00%
+1	90nt, >Arabidopsis_thaliana300179_U51b... *
+>Cluster 244
+0	90nt, >Homo_sapiens300492_SNORD12... *
+>Cluster 245
+0	90nt, >Homo_sapiens300768_SNORD11B... *
+>Cluster 246
+0	90nt, >Saccharomyces_cerevisiae300025_snR61... *
+>Cluster 247
+0	90nt, >Saccharomyces_cerevisiae300030_snR71... *
+>Cluster 248
+0	90nt, >Saccharomyces_cerevisiae300045_snR50... *
+>Cluster 249
+0	89nt, >Arabidopsis_thaliana300020_SnoR12-2... *
+>Cluster 250
+0	89nt, >Arabidopsis_thaliana300155_U29... *
+>Cluster 251
+0	89nt, >Arabidopsis_thaliana300164_U35... *
+>Cluster 252
+0	89nt, >Arabidopsis_thaliana300166_U36a-3... *
+>Cluster 253
+0	89nt, >Arabidopsis_thaliana300167_U36a-1... *
+1	87nt, >Arabidopsis_thaliana300168_U36a-2... at +/98.85%
+>Cluster 254
+0	89nt, >Homo_sapiens300026_SNORD113-10... *
+>Cluster 255
+0	89nt, >Homo_sapiens300491_SNORD12C... *
+>Cluster 256
+0	89nt, >Homo_sapiens300495_SNORD92... *
+>Cluster 257
+0	89nt, >Saccharomyces_cerevisiae300014_snR75... *
+>Cluster 258
+0	89nt, >Saccharomyces_cerevisiae300068_snR39... *
+>Cluster 259
+0	89nt, >Saccharomyces_cerevisiae300072_U24... *
+>Cluster 260
+0	88nt, >Arabidopsis_thaliana300129_SnoR9-1... *
+>Cluster 261
+0	88nt, >Arabidopsis_thaliana300181_U54... *
+>Cluster 262
+0	88nt, >Drosophila_melanogaster300076_snoRNA:Me18S-A469... *
+>Cluster 263
+0	88nt, >Drosophila_melanogaster300101_snoRNA:28S-G3253... *
+>Cluster 264
+0	88nt, >Drosophila_melanogaster300158_snoRNA:U29:54Ec... *
+>Cluster 265
+0	88nt, >Homo_sapiens300504_SNORD70... *
+1	85nt, >Homo_sapiens300505_SNORD70L1... at +/90.59%
+>Cluster 266
+0	88nt, >Homo_sapiens300755_SNORD14AL2... *
+>Cluster 267
+0	88nt, >Saccharomyces_cerevisiae300012_snR77... *
+>Cluster 268
+0	88nt, >Saccharomyces_cerevisiae300015_snR74... *
+>Cluster 269
+0	88nt, >Saccharomyces_cerevisiae300027_snR57... *
+>Cluster 270
+0	88nt, >Saccharomyces_cerevisiae300046_snR56... *
+>Cluster 271
+0	87nt, >Arabidopsis_thaliana300035_SnoR20-2... *
+>Cluster 272
+0	87nt, >Arabidopsis_thaliana300064_SnoR34... *
+>Cluster 273
+0	87nt, >Arabidopsis_thaliana300096_SnoR69Y... *
+>Cluster 274
+0	87nt, >Arabidopsis_thaliana300116_SnoR8a... *
+1	87nt, >Arabidopsis_thaliana300117_SnoR8b... at +/90.80%
+>Cluster 275
+0	87nt, >Arabidopsis_thaliana300174_U43-1... *
+>Cluster 276
+0	87nt, >Arabidopsis_thaliana300189_U80-1... *
+>Cluster 277
+0	87nt, >Arabidopsis_thaliana300235_R72e... *
+1	87nt, >Arabidopsis_thaliana300237_R72c... at +/95.40%
+2	87nt, >Arabidopsis_thaliana300238_R72b... at +/97.70%
+3	87nt, >Arabidopsis_thaliana300239_R72b-2... at +/97.70%
+4	87nt, >Arabidopsis_thaliana300240_R72d... at +/97.70%
+>Cluster 278
+0	87nt, >Caenorhabditis_elegans300009_K07C10.2... *
+>Cluster 279
+0	87nt, >Drosophila_melanogaster300008_snoRNA:Me28S-G2703b... *
+>Cluster 280
+0	87nt, >Drosophila_melanogaster300155_snoRNA:Me28S-A3407a... *
+1	86nt, >Drosophila_melanogaster300157_snoRNA:U29:54Eb... at +/93.02%
+>Cluster 281
+0	87nt, >Homo_sapiens300264_SNORD88CL1... *
+>Cluster 282
+0	87nt, >Homo_sapiens300452_SNORD116-9L1... *
+>Cluster 283
+0	87nt, >Homo_sapiens300567_SNORD35B... *
+>Cluster 284
+0	87nt, >Homo_sapiens300754_SNORD14B... *
+>Cluster 285
+0	87nt, >Mus_musculus300752_SNORD35... *
+>Cluster 286
+0	87nt, >Saccharomyces_cerevisiae300011_snR78... *
+>Cluster 287
+0	86nt, >Arabidopsis_thaliana300156_U30... *
+>Cluster 288
+0	86nt, >Arabidopsis_thaliana300173_U43-2... *
+>Cluster 289
+0	86nt, >Caenorhabditis_elegans300036_F30H5.4... *
+>Cluster 290
+0	86nt, >Drosophila_melanogaster300034_snoRNA:Me28S-A2634c... *
+>Cluster 291
+0	86nt, >Homo_sapiens300477_SNORD86... *
+>Cluster 292
+0	86nt, >Homo_sapiens300566_SNORD35A... *
+>Cluster 293
+0	86nt, >Homo_sapiens300578_SNORD62A... *
+1	86nt, >Homo_sapiens300579_SNORD62B... at +/100.00%
+>Cluster 294
+0	86nt, >Homo_sapiens300584_SNORD62BL1... *
+>Cluster 295
+0	86nt, >Homo_sapiens300770_SNORD127... *
+>Cluster 296
+0	86nt, >Homo_sapiens300771_SNORD71... *
+>Cluster 297
+0	86nt, >Saccharomyces_cerevisiae300061_snR66... *
+>Cluster 298
+0	86nt, >Saccharomyces_cerevisiae300071_snR54... *
+>Cluster 299
+0	85nt, >Arabidopsis_thaliana300004_SnoR10-2... *
+>Cluster 300
+0	85nt, >Arabidopsis_thaliana300025_SnoR14-2... *
+>Cluster 301
+0	85nt, >Arabidopsis_thaliana300026_SnoR15... *
+>Cluster 302
+0	85nt, >Arabidopsis_thaliana300049_SnoR25... *
+>Cluster 303
+0	85nt, >Arabidopsis_thaliana300063_SnoR33... *
+>Cluster 304
+0	85nt, >Arabidopsis_thaliana300070_SnoR38Y-1... *
+>Cluster 305
+0	85nt, >Arabidopsis_thaliana300094_SnoR68... *
+>Cluster 306
+0	85nt, >Arabidopsis_thaliana300183_U56... *
+>Cluster 307
+0	85nt, >Drosophila_melanogaster300009_snoRNA:Me28S-G2703c... *
+>Cluster 308
+0	85nt, >Drosophila_melanogaster300029_snoRNA:Me28S-G3255a... *
+>Cluster 309
+0	85nt, >Drosophila_melanogaster300220_snoRNA:Me18S-C1096... *
+>Cluster 310
+0	85nt, >Homo_sapiens300200_SNORD79... *
+>Cluster 311
+0	85nt, >Homo_sapiens300283_SNORD116-29L1... *
+>Cluster 312
+0	85nt, >Homo_sapiens300558_SNORD105... *
+>Cluster 313
+0	85nt, >Homo_sapiens300753_SNORD14AL1... *
+>Cluster 314
+0	85nt, >Saccharomyces_cerevisiae300003_snR79... *
+>Cluster 315
+0	84nt, >Arabidopsis_thaliana300071_SnoR38Y-2... *
+>Cluster 316
+0	81nt, >Arabidopsis_thaliana300145_U15-2... at +/95.06%
+1	84nt, >Arabidopsis_thaliana300146_U15-1a... *
+2	84nt, >Arabidopsis_thaliana300147_U15-1b... at +/96.43%
+>Cluster 317
+0	84nt, >Caenorhabditis_elegans300031_W05B2.9... *
+>Cluster 318
+0	84nt, >Drosophila_melanogaster300080_snoRNA:Me28S-G3113b... *
+>Cluster 319
+0	84nt, >Drosophila_melanogaster300099_snoRNA:U49:66Db... *
+>Cluster 320
+0	84nt, >Drosophila_melanogaster300200_snoRNA:Me28S-G1083a... *
+1	83nt, >Drosophila_melanogaster300201_snoRNA:Me28S-G1083b... at +/90.36%
+>Cluster 321
+0	84nt, >Drosophila_melanogaster300221_snoRNA:Me18S-A425... *
+>Cluster 322
+0	84nt, >Homo_sapiens300041_SNORD1B... *
+>Cluster 323
+0	84nt, >Homo_sapiens300762_SNORD11... *
+>Cluster 324
+0	83nt, >Arabidopsis_thaliana300019_SnoR12-1a... *
+>Cluster 325
+0	83nt, >Arabidopsis_thaliana300083_SnoR58Y-2... *
+>Cluster 326
+0	83nt, >Arabidopsis_thaliana300165_U36... *
+>Cluster 327
+0	83nt, >Arabidopsis_thaliana300219_U40-2... *
+>Cluster 328
+0	83nt, >Caenorhabditis_elegans300019_C55F2.3... *
+>Cluster 329
+0	83nt, >Drosophila_melanogaster300012_snoRNA:Me28S-G1083d... *
+1	83nt, >Drosophila_melanogaster300202_snoRNA:Me28S-G1083c... at +/92.77%
+>Cluster 330
+0	83nt, >Homo_sapiens300262_SNORD60... *
+>Cluster 331
+0	83nt, >Homo_sapiens300282_SNORD116-29... *
+>Cluster 332
+0	83nt, >Homo_sapiens300353_SNORD45AL1... *
+>Cluster 333
+0	83nt, >Homo_sapiens300564_SNORD33... *
+>Cluster 334
+0	83nt, >Homo_sapiens300667_SNORD45A... *
+>Cluster 335
+0	81nt, >Arabidopsis_thaliana300159_U33a... at +/96.30%
+1	82nt, >Arabidopsis_thaliana300160_U33b... *
+>Cluster 336
+0	82nt, >Arabidopsis_thaliana300184_U61... *
+>Cluster 337
+0	82nt, >Arabidopsis_thaliana300188_U80-2... *
+>Cluster 338
+0	82nt, >Caenorhabditis_elegans300065_F54C9.12... *
+>Cluster 339
+0	82nt, >Drosophila_melanogaster300032_snoRNA:Me28S-G3255b... *
+>Cluster 340
+0	82nt, >Homo_sapiens300249_SNORD32B... *
+1	77nt, >Homo_sapiens300563_SNORD32A... at +/90.91%
+>Cluster 341
+0	82nt, >Homo_sapiens300301_SNORD115-1... *
+1	82nt, >Homo_sapiens300302_SNORD115-2... at +/90.24%
+2	82nt, >Homo_sapiens300303_SNORD115-3... at +/91.46%
+3	82nt, >Homo_sapiens300304_SNORD115-4... at +/93.90%
+4	82nt, >Homo_sapiens300305_SNORD115-5... at +/95.12%
+5	82nt, >Homo_sapiens300306_SNORD115-6... at +/93.90%
+6	82nt, >Homo_sapiens300307_SNORD115-7... at +/90.24%
+7	82nt, >Homo_sapiens300308_SNORD115-8... at +/91.46%
+8	82nt, >Homo_sapiens300309_SNORD115-9... at +/96.34%
+9	81nt, >Homo_sapiens300310_SNORD115-10... at +/96.30%
+10	82nt, >Homo_sapiens300311_SNORD115-11... at +/95.12%
+11	82nt, >Homo_sapiens300312_SNORD115-12... at +/96.34%
+12	82nt, >Homo_sapiens300313_SNORD115-13... at +/97.56%
+13	81nt, >Homo_sapiens300314_SNORD115-14... at +/95.06%
+14	81nt, >Homo_sapiens300315_SNORD115-15... at +/95.06%
+15	82nt, >Homo_sapiens300316_SNORD115-16... at +/96.34%
+16	82nt, >Homo_sapiens300317_SNORD115-17... at +/92.68%
+17	82nt, >Homo_sapiens300318_SNORD115-18... at +/92.68%
+18	82nt, >Homo_sapiens300319_SNORD115-19... at +/92.68%
+19	82nt, >Homo_sapiens300320_SNORD115-20... at +/95.12%
+20	81nt, >Homo_sapiens300321_SNORD115-21... at +/96.30%
+21	82nt, >Homo_sapiens300322_SNORD115-22... at +/93.90%
+22	82nt, >Homo_sapiens300325_SNORD115-25... at +/92.68%
+23	82nt, >Homo_sapiens300326_SNORD115-26... at +/93.90%
+24	82nt, >Homo_sapiens300327_SNORD115-27... at +/90.24%
+25	82nt, >Homo_sapiens300329_SNORD115-29... at +/95.12%
+26	82nt, >Homo_sapiens300330_SNORD115-30... at +/91.46%
+27	82nt, >Homo_sapiens300331_SNORD115-31... at +/91.46%
+28	82nt, >Homo_sapiens300333_SNORD115-33... at +/91.46%
+29	82nt, >Homo_sapiens300334_SNORD115-34... at +/92.68%
+30	82nt, >Homo_sapiens300335_SNORD115-35... at +/92.68%
+31	82nt, >Homo_sapiens300336_SNORD115-36... at +/95.12%
+32	82nt, >Homo_sapiens300338_SNORD115-38... at +/92.68%
+33	82nt, >Homo_sapiens300339_SNORD115-39... at +/93.90%
+34	82nt, >Homo_sapiens300340_SNORD115-40... at +/96.34%
+35	82nt, >Homo_sapiens300341_SNORD115-41... at +/92.68%
+36	82nt, >Homo_sapiens300342_SNORD115-42... at +/95.12%
+37	82nt, >Homo_sapiens300343_SNORD115-43... at +/95.12%
+38	82nt, >Homo_sapiens300344_SNORD115-44... at +/93.90%
+>Cluster 342
+0	82nt, >Homo_sapiens300323_SNORD115-23... *
+>Cluster 343
+0	82nt, >Homo_sapiens300324_SNORD115-24... *
+>Cluster 344
+0	82nt, >Homo_sapiens300332_SNORD115-32... *
+>Cluster 345
+0	82nt, >Homo_sapiens300337_SNORD115-37... *
+>Cluster 346
+0	82nt, >Homo_sapiens300364_SNORD80L1... *
+>Cluster 347
+0	82nt, >Homo_sapiens300766_SNORD119... *
+>Cluster 348
+0	82nt, >Mus_musculus300489_SNORD86... *
+>Cluster 349
+0	82nt, >Saccharomyces_cerevisiae300033_snR67... *
+>Cluster 350
+0	81nt, >Arabidopsis_thaliana300003_SnoR10-1... *
+>Cluster 351
+0	81nt, >Arabidopsis_thaliana300065_SnoR35... *
+>Cluster 352
+0	72nt, >Arabidopsis_thaliana300097_SnoR7-1... at +/95.83%
+1	81nt, >Arabidopsis_thaliana300098_SnoR7-2... *
+>Cluster 353
+0	81nt, >Arabidopsis_thaliana300212_SnoR44-3... *
+>Cluster 354
+0	81nt, >Drosophila_melanogaster300035_snoRNA:Me28S-A2634b... *
+>Cluster 355
+0	81nt, >Drosophila_melanogaster300046_snoRNA:U14:30Eb... *
+1	81nt, >Drosophila_melanogaster300047_snoRNA:U14:30Ea... at +/92.59%
+>Cluster 356
+0	81nt, >Drosophila_melanogaster300103_snoRNA:Me18S-G962... *
+>Cluster 357
+0	81nt, >Drosophila_melanogaster300144_snoRNA:Me28S-U3344b... *
+>Cluster 358
+0	81nt, >Homo_sapiens300328_SNORD115-28... *
+>Cluster 359
+0	81nt, >Homo_sapiens300381_SNORD66L1... *
+>Cluster 360
+0	81nt, >Mus_musculus300756_SNORD32... *
+>Cluster 361
+0	81nt, >Mus_musculus300852_SNORD72... *
+>Cluster 362
+0	78nt, >Arabidopsis_thaliana300022_SnoR13-1... at +/92.31%
+1	80nt, >Arabidopsis_thaliana300023_SnoR13-2... *
+>Cluster 363
+0	80nt, >Arabidopsis_thaliana300028_SnoR16-2... *
+>Cluster 364
+0	80nt, >Arabidopsis_thaliana300030_SnoR18a... *
+>Cluster 365
+0	80nt, >Arabidopsis_thaliana300036_SnoR21b... *
+1	79nt, >Arabidopsis_thaliana300037_SnoR21a... at +/91.14%
+>Cluster 366
+0	80nt, >Arabidopsis_thaliana300072_39BYa... *
+>Cluster 367
+0	80nt, >Arabidopsis_thaliana300078_SnoR44-1b... *
+>Cluster 368
+0	80nt, >Caenorhabditis_elegans300045_Y53F4B.47... *
+>Cluster 369
+0	80nt, >Caenorhabditis_elegans300118_C08D8.3... *
+>Cluster 370
+0	80nt, >Drosophila_melanogaster300001_snoRNA:Me28S-C3227a... *
+>Cluster 371
+0	80nt, >Drosophila_melanogaster300002_snoRNA:Me28S-C3227b... *
+>Cluster 372
+0	80nt, >Drosophila_melanogaster300003_snoRNA:Me28S-U1848... *
+>Cluster 373
+0	80nt, >Drosophila_melanogaster300081_snoRNA:Me28S-G3113a... *
+>Cluster 374
+0	80nt, >Drosophila_melanogaster300098_snoRNA:U49:66Da... *
+>Cluster 375
+0	80nt, >Homo_sapiens300078_SNORD36A... *
+>Cluster 376
+0	80nt, >Homo_sapiens300190_SNORD74L4... *
+>Cluster 377
+0	80nt, >Homo_sapiens300204_SNORD76... *
+>Cluster 378
+0	80nt, >Homo_sapiens300238_SNORD55L2... *
+>Cluster 379
+0	80nt, >Homo_sapiens300509_SNORD20... *
+>Cluster 380
+0	80nt, >Homo_sapiens300540_SNORD74L7... *
+>Cluster 381
+0	80nt, >Homo_sapiens300547_SNORD72... *
+>Cluster 382
+0	80nt, >Homo_sapiens300592_SNORD111B... *
+>Cluster 383
+0	80nt, >Homo_sapiens300651_SNORD99... *
+>Cluster 384
+0	79nt, >Arabidopsis_thaliana300024_SnoR14-1... *
+>Cluster 385
+0	79nt, >Arabidopsis_thaliana300102_SnoR72Yb... *
+1	79nt, >Arabidopsis_thaliana300103_SnoR72Yc... at +/96.20%
+>Cluster 386
+0	79nt, >Arabidopsis_thaliana300111_SnoR77Y-1... *
+>Cluster 387
+0	79nt, >Arabidopsis_thaliana300112_SnoR77Y-2... *
+>Cluster 388
+0	79nt, >Arabidopsis_thaliana300190_U34d... *
+>Cluster 389
+0	79nt, >Caenorhabditis_elegans300047_C07A9.14... *
+>Cluster 390
+0	79nt, >Drosophila_melanogaster300020_snoRNA:Me18S-U1356a... *
+1	79nt, >Drosophila_melanogaster300021_snoRNA:Me18S-U1356b... at +/92.41%
+>Cluster 391
+0	79nt, >Drosophila_melanogaster300022_snoRNA:Me18S-U1356c... *
+>Cluster 392
+0	79nt, >Drosophila_melanogaster300044_snoRNA:Me28S-G2743... *
+>Cluster 393
+0	79nt, >Drosophila_melanogaster300128_snoRNA:Me28S-A1705... *
+>Cluster 394
+0	79nt, >Drosophila_melanogaster300146_snoRNA:Me28S-U3344a... *
+>Cluster 395
+0	79nt, >Homo_sapiens300511_SNORD115-2... *
+>Cluster 396
+0	79nt, >Homo_sapiens300573_SNORD55L1... *
+>Cluster 397
+0	72nt, >Homo_sapiens300555_SNORD96A... at +/93.06%
+1	79nt, >Homo_sapiens300641_SNORD96B... *
+>Cluster 398
+0	77nt, >Homo_sapiens300351_SNORD45CL1... at +/93.51%
+1	79nt, >Homo_sapiens300666_SNORD45C... *
+>Cluster 399
+0	79nt, >Homo_sapiens300769_SNORD105B... *
+>Cluster 400
+0	79nt, >Mus_musculus300957_SNORD55... *
+>Cluster 401
+0	78nt, >Arabidopsis_thaliana300032_SnoR19-1... *
+1	78nt, >Arabidopsis_thaliana300033_SnoR19-2... at +/100.00%
+>Cluster 402
+0	78nt, >Arabidopsis_thaliana300211_U61-2... *
+>Cluster 403
+0	78nt, >Caenorhabditis_elegans300004_Y55F3BR.9... *
+>Cluster 404
+0	78nt, >Caenorhabditis_elegans300083_H06I04.8... *
+>Cluster 405
+0	78nt, >Caenorhabditis_elegans300091_C07H6.10... *
+>Cluster 406
+0	78nt, >Drosophila_melanogaster300011_snoRNA:Me18S-A1806... *
+>Cluster 407
+0	78nt, >Drosophila_melanogaster300050_snoRNA:Me18S-G642... *
+>Cluster 408
+0	78nt, >Drosophila_melanogaster300114_snoRNA:Me28S-G764... *
+>Cluster 409
+0	78nt, >Homo_sapiens300199_SNORD80... *
+>Cluster 410
+0	78nt, >Homo_sapiens300411_SNORD114-2... *
+>Cluster 411
+0	78nt, >Homo_sapiens300450_SNORD74L3... *
+>Cluster 412
+0	78nt, >Homo_sapiens300496_SNORD53... *
+>Cluster 413
+0	78nt, >Homo_sapiens300497_SNORD53L1... *
+>Cluster 414
+0	78nt, >Homo_sapiens300526_SNORD84... *
+>Cluster 415
+0	78nt, >Homo_sapiens300576_SNORD116-21... *
+>Cluster 416
+0	78nt, >Homo_sapiens300714_SNORD1C... *
+>Cluster 417
+0	78nt, >Saccharomyces_cerevisiae300075_snR59... *
+>Cluster 418
+0	77nt, >Arabidopsis_thaliana300031_SnoR18b... *
+>Cluster 419
+0	77nt, >Arabidopsis_thaliana300034_SnoR20-1... *
+>Cluster 420
+0	77nt, >Arabidopsis_thaliana300074_SnoR4a... *
+1	77nt, >Arabidopsis_thaliana300075_SnoR4b... at +/97.40%
+>Cluster 421
+0	77nt, >Arabidopsis_thaliana300100_SnoR72Ya... *
+>Cluster 422
+0	77nt, >Arabidopsis_thaliana300149_U18-1... *
+>Cluster 423
+0	77nt, >Caenorhabditis_elegans300071_T06D8.11... *
+>Cluster 424
+0	77nt, >Drosophila_melanogaster300030_snoRNA:Me28S-A982a... *
+>Cluster 425
+0	77nt, >Drosophila_melanogaster300031_snoRNA:Me28S-A982b... *
+>Cluster 426
+0	77nt, >Drosophila_melanogaster300088_snoRNA:Me28S-C3351... *
+>Cluster 427
+0	77nt, >Drosophila_melanogaster300162_snoRNA:MeS28-G3277a... *
+>Cluster 428
+0	77nt, >Drosophila_melanogaster300168_snoRNA:snR38:54Ec... *
+>Cluster 429
+0	77nt, >Drosophila_melanogaster300213_snoRNA:Me28S-U2134b... *
+>Cluster 430
+0	77nt, >Homo_sapiens300012_SNORD114-7... *
+>Cluster 431
+0	77nt, >Homo_sapiens300025_SNORD114-1L1... *
+>Cluster 432
+0	77nt, >Homo_sapiens300132_SNORD81L3... *
+1	77nt, >Homo_sapiens300197_SNORD81... at +/93.51%
+>Cluster 433
+0	77nt, >Homo_sapiens300198_SNORD47... *
+>Cluster 434
+0	77nt, >Homo_sapiens300354_SNORD112... *
+>Cluster 435
+0	77nt, >Homo_sapiens300405_SNORD113-5... *
+>Cluster 436
+0	77nt, >Homo_sapiens300608_SNORD19B... *
+>Cluster 437
+0	77nt, >Homo_sapiens300609_SNORD69... *
+>Cluster 438
+0	77nt, >Homo_sapiens300725_SNORD51L1... *
+>Cluster 439
+0	76nt, >Arabidopsis_thaliana300027_SnoR16-1... *
+>Cluster 440
+0	76nt, >Arabidopsis_thaliana300076_SnoR41Y... *
+>Cluster 441
+0	76nt, >Arabidopsis_thaliana300085_SnoR59b... *
+1	76nt, >Arabidopsis_thaliana300086_SnoR59a... at +/100.00%
+>Cluster 442
+0	76nt, >Arabidopsis_thaliana300148_U16... *
+>Cluster 443
+0	76nt, >Arabidopsis_thaliana300170_U38-3... *
+>Cluster 444
+0	76nt, >Caenorhabditis_elegans300128_C51F7.3... *
+>Cluster 445
+0	76nt, >Drosophila_melanogaster300004_snoRNA:Me18S-G1952... *
+>Cluster 446
+0	76nt, >Drosophila_melanogaster300005_snoRNA:Me18S-A1061... *
+>Cluster 447
+0	76nt, >Drosophila_melanogaster300163_snoRNA:snR38:54Eb... *
+>Cluster 448
+0	76nt, >Homo_sapiens300055_SNORD66L2... *
+1	76nt, >Homo_sapiens300614_SNORD66... at +/90.79%
+>Cluster 449
+0	76nt, >Homo_sapiens300147_SNORD115-48... *
+>Cluster 450
+0	76nt, >Homo_sapiens300180_SNORD115-48L1... *
+>Cluster 451
+0	76nt, >Homo_sapiens300407_SNORD113-7... *
+>Cluster 452
+0	76nt, >Homo_sapiens300426_SNORD81L4... *
+>Cluster 453
+0	76nt, >Homo_sapiens300446_SNORD87... *
+>Cluster 454
+0	76nt, >Homo_sapiens300525_SNORD117... *
+>Cluster 455
+0	76nt, >Homo_sapiens300536_SNORD100... *
+>Cluster 456
+0	76nt, >Homo_sapiens300607_SNORD19... *
+>Cluster 457
+0	76nt, >Mus_musculus300263_snR38-4... *
+1	76nt, >Mus_musculus300946_snR38-1... at +/96.05%
+2	75nt, >Mus_musculus300947_snR38-2... at +/94.67%
+>Cluster 458
+0	75nt, >Arabidopsis_thaliana300082_SnoR53Y... *
+>Cluster 459
+0	75nt, >Arabidopsis_thaliana300101_SnoR72Yd... *
+>Cluster 460
+0	75nt, >Arabidopsis_thaliana300162_U34b... *
+>Cluster 461
+0	75nt, >Caenorhabditis_elegans300010_C04G6.12... *
+>Cluster 462
+0	75nt, >Caenorhabditis_elegans300028_C41C4.11... *
+>Cluster 463
+0	75nt, >Caenorhabditis_elegans300039_T03F7.8... *
+>Cluster 464
+0	75nt, >Caenorhabditis_elegans300070_M106.6... *
+>Cluster 465
+0	75nt, >Drosophila_melanogaster300073_snoRNA:Me28S-C2645a... *
+>Cluster 466
+0	75nt, >Drosophila_melanogaster300074_snoRNA:Me28S-C2645b... *
+1	75nt, >Drosophila_melanogaster300075_snoRNA:Me28S-C2645c... at +/100.00%
+>Cluster 467
+0	75nt, >Drosophila_melanogaster300083_snoRNA:Me28S-A771... *
+>Cluster 468
+0	75nt, >Drosophila_melanogaster300214_snoRNA:Me28S-U2134a... *
+>Cluster 469
+0	75nt, >Drosophila_melanogaster300217_snoRNA:Me18S-G1358a... *
+1	75nt, >Drosophila_melanogaster300218_snoRNA:Me18S-G1358b... at +/94.67%
+>Cluster 470
+0	75nt, >Homo_sapiens300016_SNORD114-11... *
+>Cluster 471
+0	75nt, >Homo_sapiens300017_SNORD114-12... *
+1	75nt, >Homo_sapiens300019_SNORD114-14... at +/92.00%
+>Cluster 472
+0	75nt, >Homo_sapiens300022_SNORD114-17... *
+>Cluster 473
+0	75nt, >Homo_sapiens300024_SNORD114-19... *
+>Cluster 474
+0	75nt, >Homo_sapiens300039_SNORD114-31... *
+>Cluster 475
+0	75nt, >Homo_sapiens300056_SNORD28L1... *
+>Cluster 476
+0	75nt, >Homo_sapiens300085_SNORD68L1... *
+>Cluster 477
+0	75nt, >Homo_sapiens300166_SNORD28... *
+>Cluster 478
+0	75nt, >Homo_sapiens300168_SNORD26... *
+>Cluster 479
+0	75nt, >Homo_sapiens300404_SNORD113-4... *
+>Cluster 480
+0	75nt, >Homo_sapiens300412_SNORD114-3... *
+>Cluster 481
+0	75nt, >Homo_sapiens300413_SNORD114-4... *
+>Cluster 482
+0	75nt, >Homo_sapiens300475_SNORD110... *
+>Cluster 483
+0	75nt, >Homo_sapiens300510_SNORD82... *
+>Cluster 484
+0	75nt, >Homo_sapiens300532_SNORD50A... *
+>Cluster 485
+0	75nt, >Homo_sapiens300580_SNORD24... *
+1	74nt, >Mus_musculus300966_SNORD24... at +/90.54%
+>Cluster 486
+0	75nt, >Homo_sapiens300633_SNORD74L2... *
+>Cluster 487
+0	75nt, >Homo_sapiens300657_SNORD85... *
+>Cluster 488
+0	75nt, >Homo_sapiens300691_SNORD59A... *
+>Cluster 489
+0	75nt, >Homo_sapiens300694_SNORD74L1... *
+>Cluster 490
+0	75nt, >Homo_sapiens300790_SNORD107... *
+>Cluster 491
+0	74nt, >Arabidopsis_thaliana300150_U18-2... *
+>Cluster 492
+0	74nt, >Arabidopsis_thaliana300161_U34a... *
+>Cluster 493
+0	74nt, >Arabidopsis_thaliana300214_U60.1F... *
+>Cluster 494
+0	74nt, >Caenorhabditis_elegans300016_C16D9.10... *
+>Cluster 495
+0	74nt, >Caenorhabditis_elegans300038_K02C4.7... *
+>Cluster 496
+0	74nt, >Drosophila_melanogaster300191_snoRNA:Me28S-G2596... *
+>Cluster 497
+0	74nt, >Homo_sapiens300018_SNORD114-13... *
+>Cluster 498
+0	74nt, >Homo_sapiens300349_SNORD93... *
+>Cluster 499
+0	74nt, >Homo_sapiens300360_SNORD81L2... *
+>Cluster 500
+0	74nt, >Homo_sapiens300406_SNORD113-6... *
+>Cluster 501
+0	74nt, >Homo_sapiens300661_SNORD55... *
+>Cluster 502
+0	74nt, >Mus_musculus300843_SNORD100... *
+>Cluster 503
+0	74nt, >Mus_musculus300844_SNORD101... *
+>Cluster 504
+0	74nt, >Mus_musculus300948_snR38-3... *
+>Cluster 505
+0	74nt, >Mus_musculus300967_SNORD36... *
+>Cluster 506
+0	73nt, >Arabidopsis_thaliana300090_SnoR64... *
+>Cluster 507
+0	73nt, >Arabidopsis_thaliana300192_U60.2F... *
+>Cluster 508
+0	73nt, >Caenorhabditis_elegans300003_C46C2.8... *
+1	71nt, >Caenorhabditis_elegans300021_C53B7.8... at +/97.18%
+>Cluster 509
+0	73nt, >Caenorhabditis_elegans300081_Y71D11A.7... *
+>Cluster 510
+0	73nt, >Drosophila_melanogaster300036_snoRNA:Me28S-A2634a... *
+>Cluster 511
+0	73nt, >Drosophila_melanogaster300054_snoRNA:28S-A2113... *
+>Cluster 512
+0	73nt, >Drosophila_melanogaster300105_snoRNA:Me28S-A774b... *
+>Cluster 513
+0	73nt, >Drosophila_melanogaster300106_snoRNA:Me28S-A774a... *
+>Cluster 514
+0	73nt, >Drosophila_melanogaster300151_snoRNA:Me28S-A1322... *
+>Cluster 515
+0	73nt, >Drosophila_melanogaster300156_snoRNA:Me28S-A1666a... *
+>Cluster 516
+0	73nt, >Drosophila_melanogaster300159_snoRNA:U76:54Eb... *
+>Cluster 517
+0	73nt, >Homo_sapiens300013_SNORD114-8... *
+>Cluster 518
+0	73nt, >Homo_sapiens300057_SNORD65L3... *
+>Cluster 519
+0	73nt, >Homo_sapiens300096_SNORD74L5... *
+>Cluster 520
+0	73nt, >Homo_sapiens300289_SNORD65L4... *
+>Cluster 521
+0	73nt, >Homo_sapiens300393_SNORD60L1... *
+>Cluster 522
+0	73nt, >Homo_sapiens300408_SNORD113-8... *
+>Cluster 523
+0	73nt, >Homo_sapiens300415_SNORD114-15L1... *
+>Cluster 524
+0	73nt, >Homo_sapiens300535_SNORD101... *
+>Cluster 525
+0	73nt, >Homo_sapiens300581_SNORD36B... *
+>Cluster 526
+0	73nt, >Homo_sapiens300644_SNORD61... *
+>Cluster 527
+0	71nt, >Homo_sapiens300136_SNORD65L2... at +/91.55%
+1	73nt, >Homo_sapiens300705_SNORD65... *
+>Cluster 528
+0	73nt, >Homo_sapiens300759_SNORD5... *
+>Cluster 529
+0	73nt, >Mus_musculus300851_SNORD59... *
+>Cluster 530
+0	72nt, >Caenorhabditis_elegans300013_T06C12.16... *
+>Cluster 531
+0	72nt, >Caenorhabditis_elegans300017_H09I01.2... *
+>Cluster 532
+0	72nt, >Caenorhabditis_elegans300026_F12F6.11... *
+>Cluster 533
+0	72nt, >Drosophila_melanogaster300040_snoRNA:Me18S-C1831... *
+>Cluster 534
+0	72nt, >Drosophila_melanogaster300079_snoRNA:Me28S-C788a... *
+>Cluster 535
+0	72nt, >Drosophila_melanogaster300167_snoRNA:U27:54Eb... *
+>Cluster 536
+0	72nt, >Drosophila_melanogaster300224_snoRNA:Me18S-G1189... *
+>Cluster 537
+0	72nt, >Homo_sapiens300006_SNORD45BL2... *
+1	72nt, >Homo_sapiens300668_SNORD45B... at +/93.06%
+>Cluster 538
+0	72nt, >Homo_sapiens300014_SNORD114-9... *
+1	72nt, >Homo_sapiens300020_SNORD114-15... at +/93.06%
+2	72nt, >Homo_sapiens300029_SNORD114-21... at +/90.28%
+3	72nt, >Homo_sapiens300030_SNORD114-22... at +/91.67%
+4	72nt, >Homo_sapiens300031_SNORD114-23... at +/93.06%
+5	72nt, >Homo_sapiens300033_SNORD114-25... at +/90.28%
+6	72nt, >Homo_sapiens300036_SNORD114-28... at +/93.06%
+7	70nt, >Homo_sapiens300414_SNORD114-5... at +/91.43%
+>Cluster 539
+0	72nt, >Homo_sapiens300015_SNORD114-10... *
+>Cluster 540
+0	72nt, >Homo_sapiens300023_SNORD114-18... *
+>Cluster 541
+0	72nt, >Homo_sapiens300028_SNORD114-20... *
+1	70nt, >Homo_sapiens300037_SNORD114-29... at +/94.29%
+>Cluster 542
+0	72nt, >Homo_sapiens300032_SNORD114-24... *
+>Cluster 543
+0	72nt, >Homo_sapiens300034_SNORD114-26... *
+>Cluster 544
+0	72nt, >Homo_sapiens300038_SNORD114-30... *
+>Cluster 545
+0	72nt, >Homo_sapiens300042_SNORD1A... *
+>Cluster 546
+0	72nt, >Homo_sapiens300130_SNORD45BL1... *
+>Cluster 547
+0	72nt, >Homo_sapiens300159_SNORD6L1... *
+>Cluster 548
+0	72nt, >Homo_sapiens300167_SNORD27... *
+>Cluster 549
+0	72nt, >Homo_sapiens300206_SNORD74... *
+>Cluster 550
+0	72nt, >Homo_sapiens300217_SNORD45BL3... *
+>Cluster 551
+0	72nt, >Homo_sapiens300416_SNORD114-6... *
+>Cluster 552
+0	72nt, >Homo_sapiens300459_SNORD74L6... *
+>Cluster 553
+0	72nt, >Homo_sapiens300479_SNORD57... *
+>Cluster 554
+0	72nt, >Homo_sapiens300483_SNORD56L1... *
+>Cluster 555
+0	72nt, >Homo_sapiens300522_SNORD18B... *
+>Cluster 556
+0	72nt, >Homo_sapiens300542_SNORD73B... *
+>Cluster 557
+0	72nt, >Homo_sapiens300582_SNORD36A... *
+>Cluster 558
+0	72nt, >Homo_sapiens300596_SNORD68... *
+>Cluster 559
+0	72nt, >Homo_sapiens300597_SNORD102... *
+>Cluster 560
+0	72nt, >Homo_sapiens300703_SNORD49B... *
+>Cluster 561
+0	72nt, >Homo_sapiens300707_SNORD4A... *
+>Cluster 562
+0	72nt, >Homo_sapiens300709_SNORD4B... *
+>Cluster 563
+0	71nt, >Caenorhabditis_elegans300107_F38E11.14... *
+>Cluster 564
+0	71nt, >Drosophila_melanogaster300006_snoRNA:Me28S-A992... *
+>Cluster 565
+0	71nt, >Drosophila_melanogaster300082_snoRNA:Me5.8S-G74... *
+>Cluster 566
+0	71nt, >Drosophila_melanogaster300118_snoRNA:Me28S-G980... *
+>Cluster 567
+0	71nt, >Homo_sapiens300163_SNORD31... *
+>Cluster 568
+0	71nt, >Homo_sapiens300214_SNORD39... *
+>Cluster 569
+0	71nt, >Homo_sapiens300226_SNORD56L7... *
+>Cluster 570
+0	71nt, >Homo_sapiens300234_SNORD50AL1... *
+>Cluster 571
+0	71nt, >Homo_sapiens300259_SNORD56L5... *
+>Cluster 572
+0	71nt, >Homo_sapiens300362_SNORD56L4... *
+>Cluster 573
+0	71nt, >Homo_sapiens300394_SNORD56L6... *
+>Cluster 574
+0	71nt, >Homo_sapiens300409_SNORD113-9... *
+>Cluster 575
+0	71nt, >Homo_sapiens300410_SNORD114-1... *
+>Cluster 576
+0	71nt, >Homo_sapiens300435_SNORD113-2... *
+>Cluster 577
+0	71nt, >Homo_sapiens300436_SNORD113-3... *
+>Cluster 578
+0	71nt, >Homo_sapiens300441_SNORD65L1... *
+>Cluster 579
+0	71nt, >Homo_sapiens300478_SNORD56... *
+>Cluster 580
+0	71nt, >Homo_sapiens300619_SNORD56L2... *
+>Cluster 581
+0	71nt, >Homo_sapiens300663_SNORD38A... *
+>Cluster 582
+0	71nt, >Homo_sapiens300690_SNORD59B... *
+>Cluster 583
+0	71nt, >Homo_sapiens300704_SNORD49A... *
+>Cluster 584
+0	71nt, >Homo_sapiens300748_SNORD6... *
+>Cluster 585
+0	71nt, >Homo_sapiens300791_SNORD108... *
+>Cluster 586
+0	71nt, >Mus_musculus300904_SNORD73... *
+>Cluster 587
+0	71nt, >Mus_musculus300955_SNORD38... *
+>Cluster 588
+0	71nt, >Mus_musculus300968_SNORD36... *
+>Cluster 589
+0	70nt, >Caenorhabditis_elegans300029_B0334.12... *
+>Cluster 590
+0	70nt, >Drosophila_melanogaster300078_snoRNA:Me28S-C788b... *
+>Cluster 591
+0	70nt, >Homo_sapiens300021_SNORD114-16... *
+>Cluster 592
+0	70nt, >Homo_sapiens300035_SNORD114-27... *
+>Cluster 593
+0	70nt, >Homo_sapiens300081_SNORD104... *
+>Cluster 594
+0	70nt, >Homo_sapiens300164_SNORD30... *
+>Cluster 595
+0	70nt, >Homo_sapiens300203_SNORD77... *
+1	67nt, >Homo_sapiens300347_SNORD77L2... at +/91.04%
+>Cluster 596
+0	70nt, >Homo_sapiens300268_SNORD30... *
+>Cluster 597
+0	70nt, >Homo_sapiens300390_SNORD18C... *
+>Cluster 598
+0	70nt, >Homo_sapiens300399_SNORD18C... *
+>Cluster 599
+0	70nt, >Homo_sapiens300434_SNORD113-1... *
+>Cluster 600
+0	70nt, >Homo_sapiens300449_SNORD77L4... *
+>Cluster 601
+0	70nt, >Homo_sapiens300506_SNORD51... *
+>Cluster 602
+0	70nt, >Homo_sapiens300524_SNORD18A... *
+>Cluster 603
+0	70nt, >Homo_sapiens300533_SNORD50B... *
+1	70nt, >Homo_sapiens300695_SNORD50BL1... at +/92.86%
+>Cluster 604
+0	70nt, >Homo_sapiens300559_SNORD41... *
+>Cluster 605
+0	70nt, >Homo_sapiens300757_SNORD2... *
+>Cluster 606
+0	70nt, >Mus_musculus300954_SNORD38... *
+>Cluster 607
+0	69nt, >Caenorhabditis_elegans300024_C27H5.9... *
+>Cluster 608
+0	69nt, >Drosophila_melanogaster300154_snoRNA:Me28S-G3081a... *
+>Cluster 609
+0	69nt, >Drosophila_melanogaster300161_snoRNA:U27:54Ea... *
+>Cluster 610
+0	69nt, >Homo_sapiens300008_SNORD42BL1... *
+>Cluster 611
+0	69nt, >Homo_sapiens300172_SNORD38BL3... *
+>Cluster 612
+0	69nt, >Homo_sapiens300267_SNORD41L1... *
+>Cluster 613
+0	65nt, >Homo_sapiens300201_SNORD78... at +/92.31%
+1	69nt, >Homo_sapiens300460_SNORD78L2... *
+>Cluster 614
+0	69nt, >Homo_sapiens300521_SNORD18C... *
+>Cluster 615
+0	69nt, >Homo_sapiens300601_SNORD31... *
+>Cluster 616
+0	69nt, >Homo_sapiens300610_SNORD38B... *
+>Cluster 617
+0	69nt, >Homo_sapiens300664_SNORD38B... *
+>Cluster 618
+0	68nt, >Arabidopsis_thaliana300006_SnoR101... *
+>Cluster 619
+0	68nt, >Caenorhabditis_elegans300015_ZK484.9... *
+>Cluster 620
+0	68nt, >Caenorhabditis_elegans300054_R12E2.17... *
+>Cluster 621
+0	68nt, >Drosophila_melanogaster300048_snoRNA:Me18S-G1620... *
+>Cluster 622
+0	68nt, >Drosophila_melanogaster300225_snoRNA:Me18S-A1374... *
+>Cluster 623
+0	68nt, >Homo_sapiens300088_SNORD56L3... *
+>Cluster 624
+0	68nt, >Homo_sapiens300157_SNORD59BL2... *
+>Cluster 625
+0	68nt, >Homo_sapiens300161_SNORD38B... *
+>Cluster 626
+0	68nt, >Homo_sapiens300295_SNORD59BL1... *
+>Cluster 627
+0	68nt, >Homo_sapiens300388_SNORD77L1... *
+>Cluster 628
+0	68nt, >Homo_sapiens300427_SNORD95L1... *
+>Cluster 629
+0	68nt, >Homo_sapiens300550_SNORD63... *
+>Cluster 630
+0	68nt, >Homo_sapiens300583_SNORD36C... *
+>Cluster 631
+0	65nt, >Homo_sapiens300543_SNORD73A... at +/90.77%
+1	68nt, >Mus_musculus300903_SNORD73... *
+>Cluster 632
+0	68nt, >Mus_musculus300969_SNORD36... *
+>Cluster 633
+0	67nt, >Caenorhabditis_elegans300119_ZK994.7... *
+>Cluster 634
+0	67nt, >Caenorhabditis_elegans300129_W04D2.7... *
+>Cluster 635
+0	67nt, >Drosophila_melanogaster300164_snoRNA:U31:54Eb... *
+1	67nt, >Drosophila_melanogaster300165_snoRNA:U31:54Ec... at +/94.03%
+>Cluster 636
+0	67nt, >Drosophila_melanogaster300166_snoRNA:U31:54Ed... *
+>Cluster 637
+0	67nt, >Drosophila_melanogaster300169_snoRNA:Me18S-A28a... *
+>Cluster 638
+0	67nt, >Drosophila_melanogaster300193_snoRNA:Me28S-G2173... *
+>Cluster 639
+0	67nt, >Homo_sapiens300169_SNORD25... *
+>Cluster 640
+0	67nt, >Homo_sapiens300402_SNORD64... *
+>Cluster 641
+0	67nt, >Homo_sapiens300472_SNORD98... *
+>Cluster 642
+0	67nt, >Homo_sapiens300673_SNORD64L1... *
+>Cluster 643
+0	67nt, >Homo_sapiens300706_SNORD42B... *
+>Cluster 644
+0	67nt, >Homo_sapiens300792_SNORD109A... *
+>Cluster 645
+0	66nt, >Arabidopsis_thaliana300092_SnoR66... *
+>Cluster 646
+0	66nt, >Homo_sapiens300148_SNORD37L1... *
+>Cluster 647
+0	66nt, >Homo_sapiens300241_SNORD58B... *
+1	66nt, >Homo_sapiens300718_SNORD58BL1... at +/90.91%
+2	66nt, >Mus_musculus300733_SNORD58... at +/90.91%
+>Cluster 648
+0	66nt, >Homo_sapiens300557_SNORD37... *
+>Cluster 649
+0	66nt, >Homo_sapiens300565_SNORD34... *
+>Cluster 650
+0	66nt, >Mus_musculus300871_snoU2-30... *
+>Cluster 651
+0	65nt, >Arabidopsis_thaliana300232_R79b... *
+1	63nt, >Arabidopsis_thaliana300233_R79c... at +/100.00%
+2	65nt, >Arabidopsis_thaliana300234_R79b-2... at +/100.00%
+>Cluster 652
+0	65nt, >Caenorhabditis_elegans300002_C18A3.12... *
+>Cluster 653
+0	65nt, >Caenorhabditis_elegans300034_Y39G10AR.24... *
+>Cluster 654
+0	65nt, >Homo_sapiens300059_SNORD37L2... *
+>Cluster 655
+0	65nt, >Homo_sapiens300165_SNORD29... *
+>Cluster 656
+0	65nt, >Homo_sapiens300173_SNORD78L1... *
+>Cluster 657
+0	65nt, >Homo_sapiens300263_SNORD77L3... *
+>Cluster 658
+0	65nt, >Homo_sapiens300468_SNORD58A... *
+1	65nt, >Mus_musculus300734_SNORD58... at +/90.77%
+>Cluster 659
+0	65nt, >Mus_musculus300735_SNORD58... *
+>Cluster 660
+0	64nt, >Homo_sapiens300240_SNORD58C... *
+>Cluster 661
+0	64nt, >Homo_sapiens300528_SNORD48... *
+>Cluster 662
+0	64nt, >Homo_sapiens300529_SNORD52... *
+>Cluster 663
+0	62nt, >Homo_sapiens300686_SNORD43... at +/90.32%
+1	64nt, >Mus_musculus300858_SNORD43... *
+>Cluster 664
+0	63nt, >Homo_sapiens300202_SNORD44... *
+>Cluster 665
+0	63nt, >Homo_sapiens300548_snoZ39... *
+>Cluster 666
+0	63nt, >Homo_sapiens300556_SNORD95... *
+>Cluster 667
+0	63nt, >Homo_sapiens300740_SNORD43L1... *
+>Cluster 668
+0	63nt, >Homo_sapiens300760_SNORD54... *
+>Cluster 669
+0	62nt, >Caenorhabditis_elegans300000_ZK265.10... *
+>Cluster 670
+0	61nt, >Homo_sapiens300188_SNORD44L1... *
+>Cluster 671
+0	60nt, >Homo_sapiens300205_SNORD75... *
+>Cluster 672
+0	60nt, >Homo_sapiens300384_SNORD75L2... *
+>Cluster 673
+0	59nt, >Homo_sapiens300215_SNORD115-19L1... *
+>Cluster 674
+0	58nt, >Homo_sapiens300244_SNORD75L1... *
+>Cluster 675
+0	58nt, >Homo_sapiens300708_SNORD42A... *
+>Cluster 676
+0	53nt, >Arabidopsis_thaliana300091_SnoR65... *
+>Cluster 677
+0	51nt, >Arabidopsis_thaliana300093_SnoR67... *
+>Cluster 678
+0	49nt, >Drosophila_melanogaster300145_snoRNA:MeU2-C28... *
+>Cluster 679
+0	29nt, >Arabidopsis_thaliana300110_SnoR77Y-3... *
