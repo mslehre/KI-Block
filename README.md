@@ -1,23 +1,22 @@
 # Neural Networks and Deep Learning
-## Greifswald, March 22-24, 2021
-Go to [Moodle](https://moodle-web.uni-greifswald.de/moodle/course/view.php?id=5405) for
+## Greifswald, March 29-31, 2023
+Go to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) for
  - Q & A forum
  - feedback
  - announcements
  - quiz
 
 ## Get Started
- 1. Login to [Moodle](https://moodle-web.uni-greifswald.de/moodle/course/view.php?id=5405) (requires registration). Leave the Q & A tab open in your browser.
- 2. Login at https://jupyterhub.wolke.uni-greifswald.de/ and spawn "Datascience+TF".
+ 1. Login to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) (requires registration). Leave the Q & A tab open in your browser.
+ 2. Login at https://apphub.wolke.uni-greifswald.de/ and spawn a "Datascience" server.
  3. Open a terminal (click ```+``` below ```File```, then ```Terminal```)
  4. Download the class material: Copy and paste this command into a terminal
 ```
 git clone https://github.com/mslehre/KI-Block.git
 ```
- 5. Open ```KI-Block/gd/lr.ipynb```
  
 ## Course Overview
-You will get practical knowledge to perform general machine learning and, in particular, computer vision tasks with TensorFlow 2 and the neccessary theoretical background to troubleshoot when transferring the knowledge to solve own problems.
+In this course you will get practical knowledge to perform general machine learning and, in particular, computer vision tasks with TensorFlow. Moreover, you will get the necessary theoretical background to troubleshoot when transferring the knowledge to solve own problems. The class will be hands-on and interactive. A device with a browser, keyboard and a VPN connection to the Rechenzentrum is required.
 
 ### (Stochastic) Gradient Descent
 
