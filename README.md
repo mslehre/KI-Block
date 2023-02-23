@@ -1,3 +1,5 @@
+*Update 2023: The course repository has moved to https://github.com/DataCompetency/KI-Block.*
+
 # Neural Networks and Deep Learning
 ## Greifswald, March 29-31, 2023
 Go to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) for
