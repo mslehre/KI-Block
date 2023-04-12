@@ -1,13 +1,13 @@
 # Neural Networks and Deep Learning
 ## Greifswald, March 29-31, 2023
-Go to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) for
+Go to Moodle for
  - Q & A forum
  - feedback
  - announcements
  - quiz
 
 ## Get Started
- 1. Login to [Moodle](https://moodle.uni-greifswald.de/course/view.php?id=5405) (requires registration). Leave the Q & A tab open in your browser.
+ 1. Login to Moodle (requires registration). Leave the Q & A tab open in your browser.
  2. Login at https://apphub.wolke.uni-greifswald.de/ and spawn a "Datascience" server.
  3. Open a terminal (click ```+``` below ```File```, then ```Terminal```)
  4. Download the class material: Copy and paste this command into a terminal
